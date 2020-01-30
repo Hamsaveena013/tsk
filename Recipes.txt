@@ -5,6 +5,9 @@ welcome
 kheer
 pasta
 
+Beans
+pizza
+
 uoma
 
 thank u
